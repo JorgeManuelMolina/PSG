@@ -1,0 +1,6 @@
+artista 
+administador
+funcionario
+mecenas
+organizador eventos
+empresa/manager
