@@ -1,6 +1,18 @@
 1.1
 1.2
 2.1 Solución funcional:
+Herramientas colaborativas/comunidad:
+(
+-Chat a lo Discord, pero hecho por nosotros.
+-Sitio a lo Debian Art, soundcloud y youtube. Así quedan cubiertos todo tipo de contenidos audiovisuales.
+-Sistema para emprender proyectos y pedir ayuda a otros artistas.
+)
+-"Blog" para que los administradores publiquen noticias y otros contenidos que consideren oportunos.
+-Sección con calendario de eventos, se podrá cambiar entre vista de eventos oficiales creados por los administradores y eventos no oficiales creados por los usuarios de la página.
+-Una especie de "¿Quienes somos?" pero sería "¿Qué es iniciarte?"
+-Sección de convocatorias de ayuda que publicarán los administradores, con todo tipo de información y documentación necesaria para optar a la ayuda.
+-Sección de premios llevada por los administradores.
+-Buscador básico y buscador avanzado 
 2.2
 -Se usará php symfony con licencia MIT.
 -Algún framework para javascrip
@@ -10,10 +22,7 @@
 -Los dos anteriores puntos deberán reflejar una arquitectura simple y minimalista.
 3.1
 Se usará métrica v3 y además cada équipo de trabajo útilizará scrum, de esa forma habrá algo más de flexibilidad
+3.3
+-Para el tema de la formación y transferencia, se crearán varios manuales de usuario (Moodle), según el ambito de dicho usuario. Además se realizará un curso para los administradores y programadores encargados del mantenimiento.
 5
 5.1 Mejora
-Chat a lo Discord, pero hecho por nosotros.
-Sitio a lo Debian Art, soundcloud y youtube. Así quedan cubiertos todo tipo de contenidos audiovisuales.
-Sistema para emprender proyectos y pedir ayuda a otros artistas.
-
-
