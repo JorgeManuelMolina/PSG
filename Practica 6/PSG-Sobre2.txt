@@ -16,14 +16,26 @@ Herramientas colaborativas/comunidad:
 -Sección orientada a la prensa con todos los recursos que necesitaría un periodista para cubrir noticias sobre eventos artistas y otras cosas relacionadas con la pltaforma.
 -Seccion dedicada a la formación: ofertas de formación, centros de formación en España y el extrangero...
 -Mapa geográfico con la ubicaciones de los distintos recurso físicos disponibles para asuntos artísticos en Andalucía: museos, esposiciones, oficionas, centros de formación...
+-Integracion con el sistema de gestión de identidades de la junta de adaluciía
 2.2
 -Se usará php symfony con licencia MIT.
 -Algún framework para javascrip
 -Se realizarán pruebas de seguridad y rendimiento que deben de cumplirse para asegurar, dichas pruebas se realizarán en un entorno similar al de producción, si que afecten al usuario.
 -Servidores distribuidos con Debian (especificar la versión), con un servidor Apache.
 -Especificar las caracteristicas de los servidores, maquinas y demás.
+-Optimamente deben ser servidores distribuidos, uno de base de datos, aplicaciones y opcionalmente un servidor web.
+-Base de datos de Oracle.
+-Configuración mediante ficheros XML.
+-La configuración debe ser flexible y con muchas opciones configurables (parametrizable).
+-Tiene que cumplir las normas de accesibilidad de W3C, debe cumplir el nivel AA.
+-Para el funcionamiento de la aplicación se primara el uso de AJAX, para aumentar la interactividad de la palicación web.
+-Seguridad de base de datos de operadores y estaciones.
+-La parte privada debe tener el acceso basado LDAP u otro certificado digital reconocido por la junta.
 -Los dos anteriores puntos deberán reflejar una arquitectura simple y minimalista.
-3.1
+-Compatibilidad con firefox, internet explorer, edge, chrome, opera. Los dos primeros obligatorios. Y además deberá visualizarce correctamente en dispositivos móviles.
+-Debe funcionar en windows y linux.
+
+, 3.1
 Se usará métrica v3 y además cada équipo de trabajo útilizará scrum, de esa forma habrá algo más de flexibilidad
 3.3
 -Para el tema de la formación y transferencia, se crearán varios manuales de usuario (Moodle), según el ambito de dicho usuario. Además se realizará un curso para los administradores y programadores encargados del mantenimiento.
