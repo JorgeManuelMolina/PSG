@@ -1,0 +1,19 @@
+1.1
+1.2
+2.1 Solución funcional:
+2.2
+-Se usará php symfony con licencia MIT.
+-Algún framework para javascrip
+-Se realizarán pruebas de seguridad y rendimiento que deben de cumplirse para asegurar, dichas pruebas se realizarán en un entorno similar al de producción, si que afecten al usuario.
+-Servidores distribuidos con Debian (especificar la versión), con un servidor Apache.
+-Especificar las caracteristicas de los servidores, maquinas y demás.
+-Los dos anteriores puntos deberán reflejar una arquitectura simple y minimalista.
+3.1
+Se usará métrica v3 y además cada équipo de trabajo útilizará scrum, de esa forma habrá algo más de flexibilidad
+5
+5.1 Mejora
+Chat a lo Discord, pero hecho por nosotros.
+Sitio a lo Debian Art, soundcloud y youtube. Así quedan cubiertos todo tipo de contenidos audiovisuales.
+Sistema para emprender proyectos y pedir ayuda a otros artistas.
+
+
