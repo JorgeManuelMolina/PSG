@@ -14,6 +14,8 @@ Herramientas colaborativas/comunidad:
 -Sección de premios llevada por los administradores.
 -Buscador básico y buscador avanzado pudiendo elegir que tipo de contenido buscar (noticias, eventos, pefiles de usuario...)
 -Sección orientada a la prensa con todos los recursos que necesitaría un periodista para cubrir noticias sobre eventos artistas y otras cosas relacionadas con la pltaforma.
+-Seccion dedicada a la formación: ofertas de formación, centros de formación en España y el extrangero...
+-Mapa geográfico con la ubicaciones de los distintos recurso físicos disponibles para asuntos artísticos en Andalucía: museos, esposiciones, oficionas, centros de formación...
 2.2
 -Se usará php symfony con licencia MIT.
 -Algún framework para javascrip
