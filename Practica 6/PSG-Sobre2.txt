@@ -12,7 +12,8 @@ Herramientas colaborativas/comunidad:
 -Una especie de "¿Quienes somos?" pero sería "¿Qué es iniciarte?"
 -Sección de convocatorias de ayuda que publicarán los administradores, con todo tipo de información y documentación necesaria para optar a la ayuda.
 -Sección de premios llevada por los administradores.
--Buscador básico y buscador avanzado 
+-Buscador básico y buscador avanzado pudiendo elegir que tipo de contenido buscar (noticias, eventos, pefiles de usuario...)
+-Sección orientada a la prensa con todos los recursos que necesitaría un periodista para cubrir noticias sobre eventos artistas y otras cosas relacionadas con la pltaforma.
 2.2
 -Se usará php symfony con licencia MIT.
 -Algún framework para javascrip
