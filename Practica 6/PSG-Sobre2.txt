@@ -17,6 +17,11 @@ Herramientas colaborativas/comunidad:
 -Seccion dedicada a la formación: ofertas de formación, centros de formación en España y el extrangero...
 -Mapa geográfico con la ubicaciones de los distintos recurso físicos disponibles para asuntos artísticos en Andalucía: museos, esposiciones, oficionas, centros de formación...
 -Integracion con el sistema de gestión de identidades de la junta de adaluciía
+-Sección de ayuda (?)
+-La propia página debe guardar un historico de navegación.
+-Interfaz cómoda y amigable.
+-Cumplir la legislación vigente.
+
 2.2
 -Se usará php symfony con licencia MIT.
 -Algún framework para javascrip
@@ -34,10 +39,11 @@ Herramientas colaborativas/comunidad:
 -Los dos anteriores puntos deberán reflejar una arquitectura simple y minimalista.
 -Compatibilidad con firefox, internet explorer, edge, chrome, opera. Los dos primeros obligatorios. Y además deberá visualizarce correctamente en dispositivos móviles.
 -Debe funcionar en windows y linux.
+-Para el control de calidad de la aplicación se utilizará Enterprise Architect.
 
 , 3.1
 Se usará métrica v3 y además cada équipo de trabajo útilizará scrum, de esa forma habrá algo más de flexibilidad
 3.3
 -Para el tema de la formación y transferencia, se crearán varios manuales de usuario (Moodle), según el ambito de dicho usuario. Además se realizará un curso para los administradores y programadores encargados del mantenimiento.
 5
-5.1 Mejora
+5.1 Mejoras
