@@ -40,10 +40,19 @@ Herramientas colaborativas/comunidad:
 -Compatibilidad con firefox, internet explorer, edge, chrome, opera. Los dos primeros obligatorios. Y además deberá visualizarce correctamente en dispositivos móviles.
 -Debe funcionar en windows y linux.
 -Para el control de calidad de la aplicación se utilizará Enterprise Architect.
+-Se usará el gestor documental Alfresco 2.1.6
+-Administración electrónica usará herramientas de la plataforma W@ndA de la junta.
+-Gestor de versiones git alojado en github.
+-Libre officce.
+-Usaremos php storm como ide.
+
 
 , 3.1
 Se usará métrica v3 y además cada équipo de trabajo útilizará scrum, de esa forma habrá algo más de flexibilidad
+3.2
+
 3.3
 -Para el tema de la formación y transferencia, se crearán varios manuales de usuario (Moodle), según el ambito de dicho usuario. Además se realizará un curso para los administradores y programadores encargados del mantenimiento.
+Se especicará el plan inicial de formación y su duración.
 5
 5.1 Mejoras
