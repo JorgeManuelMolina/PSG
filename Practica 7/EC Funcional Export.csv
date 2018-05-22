@@ -1,0 +1,78 @@
+"Nombre","Clase","Organización->Nombre","Criticidad para el Negocio","Puesto en Producción"
+"7zip","Software de PC","GrupoPracticas11","Bajo",
+"Adobe","Software de PC","GrupoPracticas11","Bajo",
+"Anaconda Navigator","Software de PC","GrupoPracticas11","Medio","2018-01-30"
+"Android Studio","Software de PC","GrupoPracticas11","Bajo","2014-01-15"
+"Android Studio","Software de PC","GrupoPracticas11","Medio","2017-08-20"
+"Apache","Servidor Web","GrupoPracticas11","Alto","2015-02-03"
+"Ardour","Software de PC","GrupoPracticas11","Bajo","2016-08-25"
+"Astah","Software de PC","GrupoPracticas11","Bajo","2018-02-15"
+"Astah","Software de PC","GrupoPracticas11","Bajo",
+"Atom","Software de PC","GrupoPracticas11","Bajo","2018-04-18"
+"Balsamiq Mockups","Software de PC","GrupoPracticas11","Bajo","2017-11-21"
+"Balsamiq","Software de PC","GrupoPracticas11","Bajo","2017-10-16"
+"CCleaner","Software de PC","GrupoPracticas11","Bajo","2016-01-15"
+"Eclipse Neon","Software de PC","GrupoPracticas11","Alto","2016-01-15"
+"Electron","Software de PC","GrupoPracticas11","Medio","2018-03-16"
+"Firefox","Software de PC","GrupoPracticas11","Bajo","2014-01-15"
+"Firefox","Software de PC","GrupoPracticas11","Bajo",
+"Gimp","Software de PC","GrupoPracticas11","Bajo","2008-01-15"
+"Gimp","Software de PC","GrupoPracticas11","Bajo","2018-03-14"
+"Git","Software de PC","GrupoPracticas11","Bajo","2015-01-15"
+"Git","Software de PC","GrupoPracticas11","Alto","2018-03-02"
+"Google Chrome","Software de PC","GrupoPracticas11","Bajo","2012-01-15"
+"Gravit Designer","Software de PC","GrupoPracticas11","Bajo","2017-11-30"
+"Insomnia","Software de PC","GrupoPracticas11","Bajo","2016-05-03"
+"Java","Software de PC","GrupoPracticas11","Medio","2018-01-15"
+"Java","Otro Software","GrupoPracticas11","Medio","2016-01-11"
+"Krita","Software de PC","GrupoPracticas11","Bajo","2017-04-04"
+"Libre Office","Software de PC","GrupoPracticas11","Bajo","2016-01-15"
+"Libre Office","Software de PC","GrupoPracticas11","Bajo","2016-10-15"
+"Máquina virtual Grupo 11","Máquina Virtual","GrupoPracticas11","Alto","2016-12-12"
+"MariaDB","Servidor de Base de Datos","GrupoPracticas11","Medio","2015-02-03"
+"Microsoft Office","Software de PC","GrupoPracticas11","Medio",
+"MySQL","Servidor de Base de Datos","GrupoPracticas11","Bajo","2013-01-15"
+"MySQL","Servidor de Base de Datos","GrupoPracticas11","Medio","2016-02-12"
+"Office","Software de PC","GrupoPracticas11","Bajo","2017-01-15"
+"Office","Software de PC","GrupoPracticas11","Bajo","2016-05-03"
+"Oracle VM","Software de PC","GrupoPracticas11","Bajo",
+"Ordenador de Antonio","PC/Laptop","GrupoPracticas11","Medio","2011-11-20"
+"Pepowinther","PC/Laptop","GrupoPracticas11","Medio","2014-11-12"
+"PhpStorm","Software de PC","GrupoPracticas11","Medio","2018-01-01"
+"Portatil de Elena Camero","PC/Laptop","GrupoPracticas11","Medio","2013-05-08"
+"Portatil de Jorge","PC/Laptop","GrupoPracticas11","Medio",
+"PyCharm","Software de PC","GrupoPracticas11","Medio","2015-04-15"
+"Python","Software de PC","GrupoPracticas11","Bajo","2017-01-15"
+"Sublime","Software de PC","GrupoPracticas11","Bajo","2014-01-15"
+"Tortoise","Software de PC","GrupoPracticas11","Alto","2018-04-15"
+"TortoiseSVN","Software de PC","GrupoPracticas11","Medio",
+"VB 7zip","Software de PC","GrupoPracticas11","Bajo",
+"VB Adobe","Software de PC","GrupoPracticas11","Bajo",
+"VB Anaconda","Software de PC","GrupoPracticas11","Bajo",
+"VB AndroidStudio","Software de PC","GrupoPracticas11","Bajo",
+"VB Apache","Software de PC","GrupoPracticas11","Bajo",
+"VB Astah","Software de PC","GrupoPracticas11","Medio",
+"VB Atom","Software de PC","GrupoPracticas11","Bajo",
+"VB Balsamiq","Software de PC","GrupoPracticas11","Bajo",
+"VB Chrome","Software de PC","GrupoPracticas11","Bajo",
+"VB DropBox","Software de PC","GrupoPracticas11","Bajo",
+"VB Eclipse","Software de PC","GrupoPracticas11","Bajo",
+"VB Firefox explorer","Software de PC","GrupoPracticas11","Bajo",
+"VB Firefox","Software de PC","GrupoPracticas11","Bajo",
+"VB Github","Software de PC","GrupoPracticas11","Bajo",
+"VB java RE","Software de PC","GrupoPracticas11","Bajo",
+"VB Java SE Development","Software de PC","GrupoPracticas11","Bajo",
+"VB MariaDB","Servidor de Base de Datos","GrupoPracticas11","Bajo",
+"VB MYSQL","Software de PC","GrupoPracticas11","Bajo",
+"VB Notepad","Software de PC","GrupoPracticas11","Bajo",
+"VB Office 2016","Software de PC","GrupoPracticas11","Bajo",
+"VB Oracle","Software de PC","GrupoPracticas11","Bajo",
+"VB PHPStorm","Software de PC","GrupoPracticas11","Bajo",
+"VB Tortoise","Software de PC","GrupoPracticas11","Bajo",
+"VB Unite3D","Software de PC","GrupoPracticas11","Bajo",
+"VB VLC","Software de PC","GrupoPracticas11","Bajo",
+"VirtualBox","Hypervisor","GrupoPracticas11","Medio","2016-12-12"
+"VirtualBox","Software de PC","GrupoPracticas11","Bajo","2018-02-15"
+"VirtualBox","Software de PC","GrupoPracticas11","Medio","2018-02-15"
+"XAMPP","Servidor Web","GrupoPracticas11","Bajo","2014-01-15"
+"Zip","Software de PC","GrupoPracticas11","Bajo","2011-01-15"
