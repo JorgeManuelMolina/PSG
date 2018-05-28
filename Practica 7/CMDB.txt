@@ -1,0 +1,26 @@
+Se desea prestar un servicio de gestión de imágenes por satelite, para ello es necesario instalar un software bajo Windows que funcione en resoluciones de pantalla superiores a 1920*1080
+
+- Indefinido. No tenemos definidas las resolución de ninguna pantalla de los portátiles en la CMDB
+
+Se desea prestar un servicio a una empresa X, la cual funciona  con la norma ISO 696, que establece que todos los equipos hardware deben tener una garantía mínima de dos años
+
+- No. Hay equipos con la licencia caducada:
+    - Portatil de Elena Camero
+    - Portatil de Jorge (si tiene licencia activa pero no está definido)
+    - Ordenador de Antonio
+    - Pepowinther
+
+Evalue que impacto tendría en su organización si el ordenador del miembro sentado más a la izquierda explotara y no se pudiera recuperar nada del disco duro. ¿Como afectaría eso a la respuesta de las peticiones anteriores?
+
+- El impacto es bajo respecto a las peticiones anteriores, pero la producción en la empresa bajaría un 25%, no se perdería software que no estén en los demás equipos, económicamente no tendría un coste alto reemplazar lo perdido  
+
+Evalue que impacto tendría en su organización si el ordenador del miembro sentado más a la derecha explotara y no se pudiera recuperar nada del disco duro. ¿Como afectaría eso a la respuesta de las peticiones anteriores?
+
+- El impacto es bajo respecto a las peticiones anteriores, pero la producción en la empresa bajaría un 25%, no se perdería software que no estén en los demás equipos, económicamente no tendría un coste alto reemplazar lo perdido 
+
+Su grupo ha decidido utilizar el software Sonar con los siguientes requisitos: Java JDK 1.8, Microsoft SQL Express Edition 2005 o 2008, Apache Tomcat 7.X, Google Chrome (cualquier versión). Indique los cambios a realizar en su DSL
+
+- Tendríamos que cambiar la versión de Apache porque tenemos una superior, instalar Microsoft SQL 2008, tenemos versión superior (9) de JAVA pero en principio sería retrocompatible
+
+
+
