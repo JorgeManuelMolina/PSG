@@ -1,0 +1,26 @@
+2.2
+
+De  la  actividad  realizada  se  podrán  derivar  un  conjunto  de  No  Conformidades  que  deberán  ser 
+seguidas hasta su cierre (mediante la planificación de Acciones Correctoras), estableciendo, además, 
+los mecanismos de comunicación de los resultados obtenidos, tanto en el se
+no de la organización, 
+como, en los casos en que así sea solicitado por los Clientes.
+
+2.5
+
+Registro de NC/AC (No conformidad/Acciones correctoras)
+Actas de revisión con proveedores?
+
+3.2
+
+Tras realizar la revisión se ducumentan en y guardan los NC/AC, NC derivadas.
+Además tras consolidar la información de la revisión, se pueden detectar nuevas NC.
+
+3.2.2 Actividades
+
+-Documentar no conformidades:Las No Conformidades detectadas serán documentadas en el  Registro  de  No  Conformidades  y  Acciones  Correctoras, para  facilitar  el  seguimiento  y posterior  análisis  de  las mismas.
+La  evidencia  de  la  No  Conformidad  se  recogerá  en  la 
+información de las checklists utilizadas durante la revisión.
+
+
+
