@@ -1,0 +1,54 @@
+Sp 1.2 selección de productos a evaluar
+
+Checklist:
+
+- [x] Comprobar que han establecido los criterios de evaluación de los productos, deben incluir: qué será evaluado, la frecuencia, cómo se llevará a cabo y quien estará involucrado.
+
+Pg 5. (Criterios de entradas) -> Como se llevará a cabo
+
+Frecuencia: Mensualmente ingeniero de calidad genera informes sobre las revisiones, proyectos y NC del mes anterior y uno de los 12 meses al finalizar el año, esta informacion será enviada a la lista del departamento de calidad. Anualmente en enero-abril se procede al análisis de datos con los resultados del año anterior, se elabora informe tendencias de calidad, este documento se reporta a dirección para su posterior tratamiento de objetivos
+
+Involucrados: Departamento de calidad, Dirección, cliente, ingeniero de calidad, director de operaciones, director de producción, jefe proyecto
+
+Que se va a evaluar: El presente proceso es de aplicación a la totalidad de los proyectos realizados por la organización (pg. 3, Alcance)
+
+
+- [x] Comprobar que dichos criterios se han utilizado 
+
+Pg. 18
+
+Procedimiento:
+
+El Director de Operaciones, a año vencido, durante la primera quincena del año siguiente, procede a consolidar los datos de los proyectos activos o cerrados en el año, a partir de las No Conformidades detectadas, las Acciones Correctoras abiertas, y sus respectivos estados, y los datos recogidos en los respectivos planes de Calidad. 
+
+A partir de los datos de las fuentes de partida y de los análisis realizados, el Director de Operaciones procede a realizar el Informe Anual de Calidad. 
+
+Una vez finalizado el Informe, es enviado por correo electrónico a Dirección, quienes podrán requerir información adicional al Director de Operaciones, sobre los análisis realizados y datos de partida. 
+
+
+- [x] Comprobar que los productos se han evaluado en el momento establecido.
+
+Pg. 18
+
+El subproceso que se describe en este apartado se ejecuta anualmente, a partir de las actividades de Calidad llevadas a cabo en los proyectos, de manera que Dirección pueda analizar las tendencias de los resultados obtenidos en los proyectos bajo su responsabilidad. 
+
+Pg. 22
+
+§ Se realizarán revisiones de Calidad bianuales, en las cuales se revisarán las peticiones asociadas al proyecto de mantenimiento activas o finalizadas en el último mes.
+
+§ Si el número de peticiones dadas de alta en el proyecto desde la última revisión fuera inferior
+a 6, la revisión bianual no se llevaría a cabo.
+
+§ El periodo máximo sin revisiones será, en cualquiera de los casos, anual.
+
+
+- [x] Comprobar que se identifican los casos de no conformidad.
+
+Pg. 11
+
+Documentar NC: Las No Conformidades detectadas serán documentadas en el Registro de No Conformidades y Acciones Correctoras, para facilitar el seguimiento y posterior análisis de las mismas.
+La evidencia de la No Conformidad se recogerá en la información de las checklists utilizadas durante la revisión.
+
+- [ ] Comprobar que incluye lecciones aprendidas para mejorar el proceso.
+
+No se incluyen lecciones aprendidas en el documento
