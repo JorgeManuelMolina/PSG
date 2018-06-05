@@ -8,19 +8,61 @@ como, en los casos en que así sea solicitado por los Clientes.
 
 2.5
 
-Registro de NC/AC (No conformidad/Acciones correctoras)
+Registro de NC/AC (No conformidad/Acciones correctoras): se realiza análisis
+SE ANALIZAN SI EXISTEN TENDENCIAS QUE SIGUEN LAS NOR CONFORMIDADES.
 Actas de revisión con proveedores?
 
 3.2
 
-Tras realizar la revisión se ducumentan en y guardan los NC/AC, NC derivadas.
+Tras realizar la revisión se ducumentan y guardan los NC/AC, NC derivadas.
 Además tras consolidar la información de la revisión, se pueden detectar nuevas NC.
 
+Al final de envía una notificación de informe.
+SE INFORMA A LAS PARTES INTERESADAS SOBRE LOS RESULTADOS DE LA EVALUACIÓN DE TENDENCIAS DE CALIDAD.
 3.2.2 Actividades
 
 -Documentar no conformidades:Las No Conformidades detectadas serán documentadas en el  Registro  de  No  Conformidades  y  Acciones  Correctoras, para  facilitar  el  seguimiento  y posterior  análisis  de  las mismas.
 La  evidencia  de  la  No  Conformidad  se  recogerá  en  la 
 información de las checklists utilizadas durante la revisión.
+-Consolidar información de revisión: Si  se  derivaran  No  Conformidades,  los  registros  de  las mismas  en  la  Base  de  Datos  de  No  Conformidades  y Acciones Correctoras serían también elementos de salida de la revisión.
+
+-Enviar notificación de informe: Una  vez  almacenada  la  información  de  la  revisión  en  el Repositorio de Calidad asociado al proyecto, el Ingeniero de Calidad comunica, por correo electrónico, los resultados de la misma, al Responsable de Calidad y al Jefe de Proyecto.
+SE INFORMA A LAS PARTES INTERESADAS SOBRE LOS RESULTADOS DE LA EVALUACIÓN DE TENDENCIAS DE CALIDAD.
+3.2.3 Salida
+
+-Registro de NC y AC.
+
+3.3 Gestión de acciones correctoras y escalado. 3.3.2 y 3.3.3 también.
+En este subproceso se gestiona que la acción correctora sea acordada, no que se realice.
+Entero, sí: SE ESCALAN ADECUADAMENTE LAS NO COFORMIDADES A LOS NIVELES DE GERENCIA ADECUADOS.
+
+3.3.2 
+-Registrar acciones correctoras: se registran las acciones correstoras para su posterior análisis.
+SE ANALIZAN SI EXISTEN TENDENCIAS QUE SIGUEN LAS NOR CONFORMIDADES.
+3.4 Entero
+Ej:
+3.4.2
+-Escalado de la Acción Correctora al Director de Producción:
+Aquellas  Acciones  Correctoras  cuya  fecha  de  cierre  haya vencido y permanezcan abiertas, le serán comunicadas al Director  de  Producción,  que  procederá,  a  su  criterio, a solicitar una nueva fecha de resolución.
+Si  así  no  se  resolviera,  el  Director  de  Producción,nuevamente, a su criterio, podrá escalar dichas  Acciones Correctoras, a Dirección, para su resolución.
+
+-Actualizar 
+Registro NC/AC:
+Los  resultados  o  el  estado  de  cada  una  de  las  Acciones Correctoras  son  recogidos,  en  el  Registro  de  Acciones Correctoras y No Conformidades, de manera que se facilite el seguimiento y posterior análisis de las mismas.
+Cuando  el  cierre  de  las  Acciones  Correctoras  suponga  la resolución  de  la  No  Conformidad  asociada,  también  se registrará el cierre de esta última.
+HAY UN SEGUIMIENTO DE LAS NO CONFORMIDADES HASTA SU RESOLUCIÓN
+
+
+3.7 Todo
+3.7.2 Cada actividad
+SE ANALIZAN SI EXISTEN TENDENCIAS QUE SIGUEN LAS NOR CONFORMIDADES.
+SE INFORMA A LAS PARTES INTERESADAS SOBRE LOS RESULTADOS DE LA EVALUACIÓN DE TENDENCIAS DE CALIDAD.
+
+
+
+
+
+
 
 
 
